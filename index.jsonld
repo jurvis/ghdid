@@ -1,0 +1,30 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:jurvis",
+  "publicKey": [
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:jurvis#kid=z5_SKoGxHtfkmkAsZGmax4KjYLU5U5URAqzaVyvpvdQ",
+      "controller": "did:github:jurvis",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXUT3dxMFK4EEAAoCAwQtHWhu383Pj4m7lRsBcCXPKlqDmr148dnIlyCk\r\nP7LSnU0893/nOE4K9t9rjGqh0FMSBNJAl/ngr+2BZfrF/A6EzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdRPd3BgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRC2GFXk3gKthE7oAQCOA0sTMA0sF2ptGg8teNgMSgCF\r\n9DeU4ZgwafPZRZ8R8QEAlJ/yp23i1mbD0PqPTLrdTcv/07U6Vqq5D8qIQuAL\r\nzGTOUwRdRPd3EgUrgQQACgIDBJqMqA/gSJUg0NV6eGvNXYHyagONqKla4wcn\r\nhggYsOtq+I/F1e2Lodu4cqgcCcSHBflRD326JO+/nqjbuVznLC4DAQgHwmEE\r\nGBMIAAkFAl1E93cCGwwACgkQthhV5N4CrYTKjgEAjn+CVgdYeZlVMsYNNAw2\r\nvSy0umjVfVJld4o10fre2OYBAO46rkwTy1eof9TaY25NmN99oOc8LoEJK4y/\r\nWWKncvcJ\r\n=WLDu\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:jurvis#kid=llMSDhSCslfrCaew8c8CsF7NAXsklVIkSdULWNyWAYw",
+      "controller": "did:github:jurvis",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXUT3dxMFK4EEAAoCAwQy+6L/PGTGh2qVc2w4iYp+8qku7ChddwuPuqO+\r\nC3h7KvvAjKXtog1QEhpzivEfqfgRfGboIAscR5WkxWCA7lMSzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdRPd3BgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRB6h7EfItGZowZuAQD6We9u0ZBYRuhWPSrmScpTSyk8\r\nIgHZ716tpXzfp3+AtAEAgb/oCAcs09w9iMitp1pHmemhMGbHVpX2LsumHFVo\r\nZiXOUwRdRPd3EgUrgQQACgIDBHRFweNklDqOeazf/QwF1cRDTZCWobKGAMOT\r\nU7BYzD3U5xK9eSRJhg2nw7yPKOgQVMk3FRshGXgVCDSfXCWvGcoDAQgHwmEE\r\nGBMIAAkFAl1E93cCGwwACgkQeoexHyLRmaNy/wD+KRknIphoYj+a9/juVYH8\r\n8/7ibp4D8KGC1Q6pbeWneh4A/25SQpZov0MZUhywxmjQOIo++CmfKtVQ2Xza\r\nCWtZlTgc\r\n=/tCA\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "proof": {
+    "type": "OpenPgpSignature2019",
+    "creator": "did:github:jurvis#kid=z5_SKoGxHtfkmkAsZGmax4KjYLU5U5URAqzaVyvpvdQ",
+    "domain": "GitHubDID",
+    "nonce": "f5783910b194fa5e488e36b5f60d914a",
+    "created": "2019-08-03T02:54:47.790Z",
+    "signatureValue": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.5.5\r\nComment: https://openpgpjs.org\r\n\r\nwl4EARMIAAYFAl1E93oACgkQthhV5N4CrYRdBAD9HyfB7ZAdoO3n5raITlwU\r\nVAB9pRiN9wZWzeFQZa0oI3EA/RqIKUKPPZ+/pMDfBg3PFjVNgki/zWXqFrxV\r\npVeKyW0/\r\n=sYIb\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}
